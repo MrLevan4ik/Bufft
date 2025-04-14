@@ -38,7 +38,7 @@ if len(sys.argv) >= 2:
     filename = sys.argv[1]
     if filename == "data": print(f"""
 Bufft {settings.VERSION}
-Developed by MrLevan4ik & BTXD
+Developed by LEVAN_X & BTXD
 """)
     else:
         try:
