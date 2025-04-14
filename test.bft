@@ -1,0 +1,15 @@
+; Пример кода на Bufft Asm
+INT X 3
+INT Y 9
+MIF X Y     ; Обязательно
+PUB INT X
+PUB VAL больше
+PUB INT Y
+PUB VAL на
+SUB X Y
+PUB INT X
+ELSE
+PUB INT X
+PUB VAL меньше
+PUB INT Y
+END         ; Обязательно!!
